@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h1 align="center">
-<img src="test" width="850" height="150" />
+<img src="test" width="800" height="150" />
 </h1>
 
 <h1 align="center">
